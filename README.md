@@ -62,13 +62,13 @@ EDA involved the exploring of data to answer some questions about the data such 
 ### Data Analysis
 ---
 This is where I add some lines of code, queries and DAX expressions used during analysis;
-### Key Metrics Analyzed
+#### Key Metrics Analyzed
 - Total Sales over time
 - Monthly sales trends
 - Product performance analysis
 - Customer demographics and purchasing behavior
 
-### SQL Queries
+#### SQL Queries
 Used SQL to extract specific insights from the dataset, such as:
 - Monthly sales totals
 - Product category performance
@@ -81,6 +81,58 @@ WHERE CONDITION = TRUE
 
 ### Data Visualization
 📈
-|Heading 1|Heading 2|Heading 3|
-|---------|---------|---------|
-|Table 1|Table 2|Table 3|
+#### Excel Dashboards
+- Created interactive dashboards in Excel that highlight key sales metrics, including:
+  - Sales trends over time
+  - Top-selling products
+  - Customer demographics
+
+#### Power BI Reports
+- Developed comprehensive reports using Power BI, which included:
+  - Visual representations of sales data (charts, graphs)
+  - Filter options for deeper insights into product categories and customer segments
+
+### Findings & Insights
+---
+- Identified peak sales periods and correlated them with marketing campaigns.
+- Discovered underperforming product categories and suggested potential marketing strategies.
+- Analyzed customer purchasing trends to recommend targeted promotions.
+
+### Recommendations
+---
+1. **Focus on Best Sellers:**
+   - Continue to promote and stock top-performing products.
+   - Consider bundling these products with other items to increase sales.
+
+2. **Enhance Regional Strategies:**
+   - Investigate regions with lower sales performance to identify potential issues.
+   - Tailor marketing efforts based on regional preferences and sales trends.
+
+3. **Monitor Seasonal Trends:**
+   - Analyze sales data seasonally to prepare for peak times and manage inventory effectively.
+
+4. **Customer Feedback:**
+   - Gather customer feedback on products to address any issues promptly, especially for top sellers.
+
+5. **Cross-Selling Opportunities:**
+   - Identify complementary products to recommend alongside best sellers to increase average order value.
+
+### Areas of Discussion
+---
+- **Data Quality:**
+  - Ensure data from Excel and SQL sources are accurate and up to date for reliable insights.
+  
+- **Sales Channel Performance:**
+  - Discuss the effectiveness of different sales channels. Are online sales outperforming in-store, or vice versa? What strategies can enhance underperforming channels?
+
+- **Customer Segmentation:**
+  - Explore the demographics of buyers in high-performing regions versus low-performing ones.
+
+### Conclusion
+---
+The dashboard serves as a vital tool for visualizing sales data, enabling stakeholders to make informed decisions. By focusing on top-performing products and understanding regional performance, businesses can optimize their strategies to drive sales growth. Continuous monitoring and adjustment based on data insights will help maintain competitive advantage and improve overall sales performance. 
+
+This dashboard not only facilitates tracking of KPIs but also fosters discussions that can lead to actionable insights and strategic planning.
+
+This project provided valuable experience in data analysis, from data cleaning to visualization and reporting. The skills acquired through this analysis will be instrumental in future data-driven projects.
+
