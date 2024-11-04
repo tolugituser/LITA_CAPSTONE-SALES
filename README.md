@@ -54,7 +54,7 @@ The primary source of data used here is Sales Data.csv and this is an open sourc
 
 ### Exploratory Data Analysis
 ---
-EDA involved the exploring of data to answer some questions about the data such as;
+EDA involved the process of exploring the dataset to answer some questions about the data such as;
 - What is the overall sales trend?
 - Which product are top sellers?
 - What are the products on peak sales?
@@ -69,7 +69,7 @@ This is where I add some lines of code, queries and DAX expressions used during 
 - Customer demographics and purchasing behavior
 
 #### SQL Queries
-Used SQL to extract specific insights from the dataset, such as:
+I used SQL to extract specific insights from the dataset, such as:
 - Monthly sales totals
 - Product category performance
 - Customer retention rates
