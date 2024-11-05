@@ -1,5 +1,6 @@
-# E-Commerce Sales Analysis Dashboard
-This project focuses on analyzing the sales performance of an E-commerce business over a two-year period. 
+# Sales Performance Analysis for a Retail Store 
+This project is tasked with analyzing the sales performance of a retail store by exploring the sales data to uncover key insights such as top-selling products, regional 
+performance and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these findings.
 
 [Overview](#overview)
 
