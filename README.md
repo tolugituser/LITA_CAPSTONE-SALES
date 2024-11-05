@@ -75,10 +75,104 @@ I used SQL to extract specific insights from the dataset, such as:
 - Customer retention rates
 
 ```SQL
-SELECT * FROM TABLE1
-WHERE CONDITION = TRUE
-```
+SELECT * FROM [dbo].[Sales Data]
 
+--------------To create Revenue column
+ALTER TABLE[dbo].[Sales Data]
+ADD Revenue int
+
+UPDATE[dbo].[Sales Data]
+SET Revenue = (Quantity*UnitPrice)
+
+--------------To create Total Sales column
+ALTER TABLE [dbo].[Sales Data]
+ADD Total_Sales int
+
+UPDATE[dbo].[Sales Data]
+SET Total_Sales =(Quantity*UnitPrice)
+
+ALTER TABLE[dbo].[Sales Data]
+DROP column TotalSales
+
+-----------------Retrieve the total sales for each product category.
+
+SELECT Product, SUM(Total_Sales) as Sales_per_Product
+FROM[dbo].[Sales Data]
+GROUP by Product
+
+-----------------Find the number of sales transactions in each region.
+
+SELECT Region,SUM(Total_Sales) as Sales_per_Region
+FROM[dbo].[Sales Data]
+GROUP by Region
+
+-----------------Find the highest-selling product by total sales value.
+
+SELECT PRODUCT, SUM(Total_Sales) as top_selling_products
+FROM[dbo].[Sales Data]
+GROUP by PRODUCT
+Order by top_selling_products desc
+
+-----------------Calculate total revenue per product
+
+SELECT Product,SUM(Quantity*UnitPrice) as Total_Revenue
+FROM[dbo].[Sales Data]
+GROUP BY Product
+
+---------------To create OrderMonth column
+
+ALTER TABLE[dbo].[Sales Data]
+ADD OrderMonth nvarchar(50)
+
+UPDATE[dbo].[Sales Data]
+SET OrderMonth = DATENAME(MONTH, OrderDate)
+
+Select * 
+from [dbo].[Sales Data]
+
+----------------To create orderYear column
+
+ALTER TABLE[dbo].[Sales Data]
+ADD OrderYear int
+
+UPDATE[dbo].[Sales Data]
+SET OrderYear = Year(OrderDate)
+
+----------------Calculate total monthly sales  for the current year(2024)
+
+SELECT  OrderMonth, 
+	SUM(Revenue) as Total_Sales
+FROM[dbo].[Sales Data]
+WHERE OrderYear = 2024
+GROUP BY OrderMonth
+
+---------------Top 5 customers by Total Purchase
+
+SELECT  Top 5 Customer_Id,SUM(Quantity) as Total_Purchase
+FROM [dbo].[Sales Data]
+GROUP BY Customer_Id
+ORDER BY Total_Purchase DESC
+
+-------------Calculate the percentage of total sales contributed by each region.
+
+SELECT Region,SUM(Revenue) as Region_Sales,
+(sum(Revenue) / (select sum(Revenue) from[dbo].[Sales Data])*100) as percentage_of_Revenue
+from[dbo].[Sales Data]
+group by Region
+
+SELECT Region,SUM(Revenue) as Region_Sales,
+Count(Revenue) * 100 / sum(count(Revenue)) over() as Percentage_of_Revenue
+from[dbo].[Sales Data]
+group by Region
+
+--------------Identify products with no sales in Months 10, 11, and 12 (October to December)
+
+SELECT Product,SUM(Quantity) AS Sales
+FROM[dbo].[Sales Data]
+WHERE MONTH(OrderDate) BETWEEN 10 AND 12
+GROUP BY Product
+HAVING SUM(Quantity)= 0
+```
 ### Data Visualization
 📈
 #### Excel Dashboards
