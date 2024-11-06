@@ -191,6 +191,7 @@ HAVING SUM(Quantity)= 0
 
 ![Power BI Dashboard](https://github.com/user-attachments/assets/9aae87a3-4491-4116-9eff-e255f4eafbe8)
 
+![BarChart Unit Sold Product](https://github.com/user-attachments/assets/9b180a1a-46a9-44f1-b98c-a8ad874052d3)
 
 
 ### Findings & Insights
