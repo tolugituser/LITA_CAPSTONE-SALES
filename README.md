@@ -189,6 +189,7 @@ HAVING SUM(Quantity)= 0
   - Visual representations of sales data (charts, graphs)
   - Filter options for deeper insights into product categories and customer segments
 
+![Power BI Dashboard](https://github.com/user-attachments/assets/9aae87a3-4491-4116-9eff-e255f4eafbe8)
 
 
 
