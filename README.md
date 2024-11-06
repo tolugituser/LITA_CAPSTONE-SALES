@@ -181,11 +181,39 @@ HAVING SUM(Quantity)= 0
   - Sales trends over time
   - Top-selling products
   - Customer demographics
+![14](https://github.com/user-attachments/assets/b960890c-8189-4ddf-b2ec-348eb6aa9ca6)
+![15](https://github.com/user-attachments/assets/5d9eccf2-4899-4d15-9592-48926586310b)
+![16](https://github.com/user-attachments/assets/79fc5d21-f705-49e2-bffb-4df1d83e3285)
+![17](https://github.com/user-attachments/assets/8fc1d7cb-d005-4f29-b94b-0556ef13cb39)
+![18](https://github.com/user-attachments/assets/be935807-f359-49cc-be56-f24e4fcf89e6)
+![19](https://github.com/user-attachments/assets/b75fdb84-f9fc-4edd-a209-bafdbce4e825)
+![20](https://github.com/user-attachments/assets/c804e3e1-1f2a-4e53-bee0-7ffaf56051fe)
+![21](https://github.com/user-attachments/assets/5cd1d82a-d1b1-4baf-b168-bf3c9a48ab5d)
+![22](https://github.com/user-attachments/assets/2a53275a-e95b-41da-bd51-73318e1c31e2)
+![23](https://github.com/user-attachments/assets/0bc8bfd5-0d02-4a91-a214-d7cd504853af)
+![9](https://github.com/user-attachments/assets/0e7113d2-e5de-4120-918f-e02fe2bca4f4)
+![10](https://github.com/user-attachments/assets/c791e532-3040-4479-b291-b6f8c36e2512)
+![11](https://github.com/user-attachments/assets/8fded4fa-2349-4873-93db-777ec90ab31b)
+![12](https://github.com/user-attachments/assets/af1923f3-b688-4302-9550-e0cbfdc8a42a)
+![13](https://github.com/user-attachments/assets/bc0e628f-986e-48d1-9bff-37aef115098f)
+
+
 
 #### Power BI Reports
 - Developed comprehensive reports using Power BI, which included:
   - Visual representations of sales data (charts, graphs)
   - Filter options for deeper insights into product categories and customer segments
+
+![1](https://github.com/user-attachments/assets/9b6963be-b9b3-4b97-99cb-c569b16c182a)
+![2](https://github.com/user-attachments/assets/5e4c8780-c29c-47e8-b659-7beb766d2b23)
+![3](https://github.com/user-attachments/assets/2b1a690b-07d5-4d3a-b83d-457231648081)
+![4](https://github.com/user-attachments/assets/29ece15f-7f0d-4140-861d-4a9cc6390043)
+![5](https://github.com/user-attachments/assets/66e59075-5cc4-41e3-bef2-04cf2097ce5f)
+![6](https://github.com/user-attachments/assets/80ab1fec-de9a-4070-814f-92684a889ccc)
+![7](https://github.com/user-attachments/assets/fb3a6be5-0b1e-488a-81fd-b40559fef6d1)
+![8](https://github.com/user-attachments/assets/ffb21785-762a-420c-b73c-7b0be09f98ab)
+
+
 
 ### Findings & Insights
 ---
