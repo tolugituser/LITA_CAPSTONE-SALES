@@ -190,7 +190,7 @@ HAVING SUM(Quantity)= 0
   - Top-selling products
   - Customer demographics
 
-![Rev Table](https://github.com/user-attachments/assets/a136dd95-58ba-4894-8f0d-95060fb4d60b)
+[Rev Table](https://github.com/user-attachments/assets/a136dd95-58ba-4894-8f0d-95060fb4d60b)
 
 ![Quantity Table](https://github.com/user-attachments/assets/04807086-07cd-4bc9-9c3a-ae52b2da1582)
 
