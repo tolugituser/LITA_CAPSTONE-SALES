@@ -210,6 +210,15 @@ HAVING SUM(Quantity)= 0
 
 ![ProductTable](https://github.com/user-attachments/assets/da190a56-44a0-4718-ab78-7ed4767e1986)
 
+![BarChart Bottom Product](https://github.com/user-attachments/assets/88db099a-9904-40b3-8b5c-e6558260a4de)
+
+![PieChart Sales](https://github.com/user-attachments/assets/80351ec0-8290-4cd3-8ed8-9115cf2cf959)
+
+![Chart Revenue Product](https://github.com/user-attachments/assets/fd886017-9b47-43fa-a92a-10f27842f46b)
+
+![DonutChart UnitSold](https://github.com/user-attachments/assets/ed18bd0d-e8f2-4157-8a5f-6ebd82e520d6)
+
+![BarChart](https://github.com/user-attachments/assets/283c72d0-e49d-4458-8c62-88d0b566f5c6)
 
 
 #### Power BI Reports
