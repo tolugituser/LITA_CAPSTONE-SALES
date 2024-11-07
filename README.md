@@ -17,6 +17,13 @@ performance and monthly sales trends. The goal is to produce an interactive Powe
 [Data Visualization](#data-visualization)
 
 [Findings and Insights](#findings-and-Insights)
+
+[Recommendations](#recommendations)
+
+[Areas of Discussion](#areas-of-discussion)
+
+[Conclusion](#conclusion)
+
 ### Overview
 ---
 This Data Analysis project aims to generate insight into the sales performance of an E-commerce business over the period of two years. By analysing the various parameters in the dataset received, I seek to gather enough insight to make informed and reasonable decisions which will ultimately enable me tell  compelling stories around the data and to know the best performance from the dataset.
