@@ -192,33 +192,33 @@ HAVING SUM(Quantity)= 0
 
 [Rev Table](https://github.com/user-attachments/assets/a136dd95-58ba-4894-8f0d-95060fb4d60b)
 
-![Quantity Table](https://github.com/user-attachments/assets/04807086-07cd-4bc9-9c3a-ae52b2da1582)
+[Quantity Table](https://github.com/user-attachments/assets/04807086-07cd-4bc9-9c3a-ae52b2da1582)
 
-![RegionTable](https://github.com/user-attachments/assets/7f18593d-62b8-4402-9122-fd4da928a29f)
+[RegionTable](https://github.com/user-attachments/assets/7f18593d-62b8-4402-9122-fd4da928a29f)
 
-![MonthTable](https://github.com/user-attachments/assets/dfc01191-0e83-47bb-b09d-ce72afdadef1)
+[MonthTable](https://github.com/user-attachments/assets/dfc01191-0e83-47bb-b09d-ce72afdadef1)
 
-![Bottom 3 Table](https://github.com/user-attachments/assets/a454c9d1-b924-4b0e-b693-3c43caa1378e)
+[Bottom 3 Table](https://github.com/user-attachments/assets/a454c9d1-b924-4b0e-b693-3c43caa1378e)
 
-![Top 3 Table](https://github.com/user-attachments/assets/22ca1098-a421-4372-89ec-a4138c33b22d)
+[Top 3 Table](https://github.com/user-attachments/assets/22ca1098-a421-4372-89ec-a4138c33b22d)
 
-![Ave Sales Table](https://github.com/user-attachments/assets/61e7c4c4-9ba4-46bd-b281-f6edfc0f0900)
+[Ave Sales Table](https://github.com/user-attachments/assets/61e7c4c4-9ba4-46bd-b281-f6edfc0f0900)
 
-![Product Table](https://github.com/user-attachments/assets/5965c1e3-2a41-4a3c-a47d-4fb6efc804bf)
+[Product Table](https://github.com/user-attachments/assets/5965c1e3-2a41-4a3c-a47d-4fb6efc804bf)
 
-![SalesTable](https://github.com/user-attachments/assets/2922e43f-a30f-4dc2-844e-4595d5ea860b)
+[SalesTable](https://github.com/user-attachments/assets/2922e43f-a30f-4dc2-844e-4595d5ea860b)
 
-![ProductTable](https://github.com/user-attachments/assets/da190a56-44a0-4718-ab78-7ed4767e1986)
+[ProductTable](https://github.com/user-attachments/assets/da190a56-44a0-4718-ab78-7ed4767e1986)
 
-![BarChart Bottom Product](https://github.com/user-attachments/assets/88db099a-9904-40b3-8b5c-e6558260a4de)
+[BarChart Bottom Product](https://github.com/user-attachments/assets/88db099a-9904-40b3-8b5c-e6558260a4de)
 
-![PieChart Sales](https://github.com/user-attachments/assets/80351ec0-8290-4cd3-8ed8-9115cf2cf959)
+[PieChart Sales](https://github.com/user-attachments/assets/80351ec0-8290-4cd3-8ed8-9115cf2cf959)
 
-![Chart Revenue Product](https://github.com/user-attachments/assets/fd886017-9b47-43fa-a92a-10f27842f46b)
+[Chart Revenue Product](https://github.com/user-attachments/assets/fd886017-9b47-43fa-a92a-10f27842f46b)
 
-![DonutChart UnitSold](https://github.com/user-attachments/assets/ed18bd0d-e8f2-4157-8a5f-6ebd82e520d6)
+[DonutChart UnitSold](https://github.com/user-attachments/assets/ed18bd0d-e8f2-4157-8a5f-6ebd82e520d6)
 
-![BarChart](https://github.com/user-attachments/assets/283c72d0-e49d-4458-8c62-88d0b566f5c6)
+[BarChart](https://github.com/user-attachments/assets/283c72d0-e49d-4458-8c62-88d0b566f5c6)
 
 
 #### Power BI Reports
