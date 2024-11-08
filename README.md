@@ -225,22 +225,9 @@ HAVING SUM(Quantity)= 0
 - Developed comprehensive reports using Power BI, which included:
   - Visual representations of sales data (charts, graphs)
   - Filter options for deeper insights into product categories and customer segments
+![Bottom-Performing Product](https://github.com/user-attachments/assets/57c0f751-ebad-48ba-ac73-f4f6b88b8135)
 
-[Power BI Dashboard](https://github.com/user-attachments/assets/9aae87a3-4491-4116-9eff-e255f4eafbe8)
 
-[BarChart Unit Sold Product](https://github.com/user-attachments/assets/9b180a1a-46a9-44f1-b98c-a8ad874052d3)
-
-[Unit Sold by Region](https://github.com/user-attachments/assets/a5054448-b7b7-40ad-bec4-3668a10c5fea)
-
-[Sales Region](https://github.com/user-attachments/assets/17de9831-5353-4398-a885-eb01aaec35a6)
-
-[Bottom-Performing Product](https://github.com/user-attachments/assets/e0cb6ece-54d3-4c81-b2f7-5283a33f642b)
-
-[Top Performing Product](https://github.com/user-attachments/assets/48c43d86-94e9-422f-9bb3-f19b4f1dd423)
-
-[LineChart Monthly Trend](https://github.com/user-attachments/assets/debb09cd-6794-47fe-a354-30929b693fe1)
-
-[Rev Year](https://github.com/user-attachments/assets/ed009305-a01c-4444-8926-acdbfbe3d822)
 
 
 ### Findings and Insights
